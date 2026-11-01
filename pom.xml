@@ -25,11 +25,9 @@
 		<repository>
 			<id>nexus</id>
 			<url>http://172.31.40.183:8081/repository/Maven/</url>
+			
 		</repository>
-		<snapshotRepository>
-			<id>nexus</id>
-			<url>http://172.31.40.183:8081/repository/Maven-SnapShot/</url>
-		</snapshotRepository>
+		
     </distributionManagement>
 
 	<dependencies>
