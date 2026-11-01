@@ -24,11 +24,11 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://3.110.173.107:8081/repository/Maven/</url>
+			<url>http://172.31.40.183:8081/repository/Maven/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://3.110.173.107:8081/repository/Maven-SnapShot/</url>
+			<url>http://172.31.40.183:8081/repository/Maven-SnapShot/</url>
 		</snapshotRepository>
     </distributionManagement>
 
